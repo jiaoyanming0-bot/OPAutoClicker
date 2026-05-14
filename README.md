@@ -22,7 +22,6 @@
 <div align="center">
 
 [![Total Downloads][shield-repo-total]][repo-releases]
-[![Latest Downloads][shield-repo-downloads]][repo-latest]
 [![Latest Release][shield-repo-latest]][repo-latest]
 [![Stars][shield-repo-stars]][repo-stargazers]
 
